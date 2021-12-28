@@ -13,6 +13,7 @@ We introduce a new publicly available large-scale Korean Sign Language (KSL) dat
 
 [Download](https://aihub.or.kr/aidata/7965/download)
 
+## To do
 
 ## Publications
 Our paper is available in the FG Conference Proceedings.
