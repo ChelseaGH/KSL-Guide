@@ -1,7 +1,7 @@
 # KSL-Guide
 ## A Large-scale Korean Sign Language Dataset Including Interrogative Sentences for Guiding the Deaf and Hard-of-Hearing
 
-<img align="center" src="https://user-images.githubusercontent.com/25498950/147542941-28740f05-c2e3-4edd-9c9e-e8a21d7dd997.png">
+<img align="center" src="https://github.com/ChelseaGH/KSL-Guide/files/7783547/Copy.of.FG.2021.KSL-Guide_submit.pdf">
 
 
 We introduce a new publicly available large-scale Korean Sign Language (KSL) dataset—KSL-Guide—that includes both declarative sentences and comparable interrogative sentences, which are required for a model to achieve high performance in real-world interactive tasks deployed on service applications. Our dataset contains a total of 121K sign language video samples featuring sentences and words spoken by native KSL speakers with extensive annotations (e.g., gloss, translation, keypoints, and timestamps). We exploit a multi-camera system to produce 3D human pose keypoints as well as 2D keypoints from multi-view RGB. We have demonstrated the advantage of having a considerable number of interrogative sentences in a dataset, which allows high performance of recognition/translation tasks, and facilitates interactive communication between Deaf and hearing people in the community.
