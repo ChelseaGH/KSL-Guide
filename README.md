@@ -1,5 +1,5 @@
 # KSL-Guide
-## A Large-scale Korean Sign Language Dataset Including Interrogative Sentences for Guiding the Deaf and Hard-of-Hearing
+## KSL-Guide is a large-scale Korean Sign Language dataset which includes interrogative sentences for guiding the Deaf and hard-of-hearing.
 
 <img align="center" src="https://user-images.githubusercontent.com/25498950/147543541-c7a9cda3-5a01-49a9-93a8-8cad91a2c087.png">
 
