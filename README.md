@@ -8,7 +8,9 @@ We introduce a new publicly available large-scale Korean Sign Language (KSL) dat
 
 
 ## Dataset
-[Intro](https://aihub.or.kr/aidata/7965) \\
+[Intro](https://aihub.or.kr/aidata/7965)
+
+
 [Download](https://aihub.or.kr/aidata/7965/download)
 
 
