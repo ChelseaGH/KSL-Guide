@@ -4,11 +4,11 @@
 <img align="center" src="https://user-images.githubusercontent.com/25498950/147543541-c7a9cda3-5a01-49a9-93a8-8cad91a2c087.png">
 
 
-We introduce a new publicly available large-scale Korean Sign Language (KSL) dataset—KSL-Guide—that includes both declarative sentences and comparable interrogative sentences, which are required for a model to achieve high performance in real-world interactive tasks deployed on service applications. Our dataset contains a total of 121K sign language video samples featuring sentences and words spoken by native KSL speakers with extensive annotations (e.g., gloss, translation, keypoints, and timestamps). We exploit a multi-camera system to produce 3D human pose keypoints as well as 2D keypoints from multi-view RGB. We have demonstrated the advantage of having a considerable number of interrogative sentences in a dataset, which allows high performance of recognition/translation tasks, and facilitates interactive communication between Deaf and hearing people in the community.
+We introduce a new publicly available large-scale Korean Sign Language (KSL) dataset—KSL-Guide—that includes both declarative sentences and comparable interrogative sentences, which are required for a model to achieve high performance in real-world interactive tasks deployed on service applications. Our dataset contains a total of 121K sign language video samples featuring sentences and words spoken by native KSL speakers with extensive annotations (e.g., gloss, translation, 2D/3D human pose keypoints, and timestamps). We exploit a multi-camera system to produce 3D human pose keypoints as well as 2D keypoints from multi-view RGB. We have demonstrated the advantage of having a considerable number of interrogative sentences in a dataset, which allows high performance of recognition/translation tasks, and facilitates interactive communication between Deaf and hearing people in the community.
 
 
 ## Dataset
-[Intro](https://aihub.or.kr/aidata/7965)
+[Intro](https://aihub.or.kr/aidata/7965) \\
 [Download](https://aihub.or.kr/aidata/7965/download)
 
 
