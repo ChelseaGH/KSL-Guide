@@ -11,7 +11,7 @@ We introduce a new publicly available large-scale Korean Sign Language (KSL) dat
 [Intro](https://aihub.or.kr/aidata/7965)
 
 
-[Download](https://aihub.or.kr/aidata/7965/download)
+[Download](https://aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100&aihubDataSe=realm&dataSetSn=103)
 
 ## To do
 
